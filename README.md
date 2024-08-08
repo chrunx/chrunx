@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://express-spotify-readme.vercel.app/now-playing" alt="spotify" width="400" height="150">
+<img src="https://express-spotify-readme.vercel.app/now-playing" alt="spotify">
